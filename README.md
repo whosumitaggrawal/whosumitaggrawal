@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Contribution**
 
-- 🌱 I’m currently learning **Masters in Computer Science**
+- 🌱 I’m currently learning **Masters in Computer Applications**
 
 - 👯 I’m looking to collaborate on **Projects**
 
