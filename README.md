@@ -8,15 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/whosumitagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/whosumitagrawal?logo=twitter&style=for-the-badge" alt="whosumitagrawal" /></a> </p>
 
-- 🔭 I’m currently working on **Contribution**
-
-- 🌱 I’m currently learning **Masters in Computer Applications**
-
-- 👯 I’m looking to collaborate on **Projects**
-
-- 📫 How to reach me **https://www.linkedin.com/in/sumit-sa/**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFqlX9jbx8/Uw4Xf2xYmnT7WsxF-3u9HQ/edit?utm_content=DAFqlX9jbx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqlX9jbx8/Uw4Xf2xYmnT7WsxF-3u9HQ/edit?utm_content=DAFqlX9jbx8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# 💫 About Me:
+🔭 I’m currently working on Contribution<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Flask Apps<br>🌱 I’m currently learning Masters in Computer Applications<br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact I ❤️🐶s.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
